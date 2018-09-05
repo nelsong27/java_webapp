@@ -15,3 +15,4 @@ Dependency projects
 
 
 
+v 1.2
